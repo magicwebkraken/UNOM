@@ -27787,10 +27787,10 @@ function Tj() {
                         children: "CONTRACT ADDRESS",
                       }),
                       H.jsx("a", {
-                        href: "https://etherscan.io/token/0xcomingsoon",
+                        href: "https://etherscan.io/token/0x183f4ec6d2397be256f89c059bbe422d076916e4",
                         target: "_blank",
                         className: "summit-offer-two-text",
-                        children: "0xcomingsoon ",
+                        children: "0x183f4ec6d2397be256f89c059bbe422d076916e4 ",
                       }),
                     ],
                   }),
@@ -65655,7 +65655,7 @@ function hw({ setSection: t }) {
                   }),
                   H.jsxs("button", {
                     className: "header-button header-button-buy",
-                    onClick: () => window.open("https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon", "_blank"),
+                    onClick: () => window.open("https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x183f4ec6d2397be256f89c059bbe422d076916e4", "_blank"),
                     children: [
                       H.jsx(Jj, {
                         className: "header-button-buy-bg",

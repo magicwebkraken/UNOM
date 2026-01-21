@@ -27353,7 +27353,7 @@ function Pj() {
                       children: [
                         H.jsx("a", {
                           target: "_blank",
-                          href: "https://t.me/UNOMeme_Portal",
+                          href: "https://t.me/unomgroup",
                           children: H.jsx("img", {
                             src: "/img/telegram-icon.png",
                             alt: "telegram",
@@ -27362,7 +27362,7 @@ function Pj() {
                         H.jsx("span", { children: "Join Us" }),
                         H.jsx("a", {
                           target: "_blank",
-                          href: " https://x.com/UNOMonETH",
+                          href: " https://x.com/UNOMGROUP",
                           children: H.jsx("img", {
                             src: "/img/x-icon.png",
                             alt: "x",
@@ -27787,10 +27787,10 @@ function Tj() {
                         children: "CONTRACT ADDRESS",
                       }),
                       H.jsx("a", {
-                        href: "https://etherscan.io/token/0x7825685e090cf064d3ee89952a1ec3115b22bfba",
+                        href: "https://etherscan.io/token/0xcomingsoon",
                         target: "_blank",
                         className: "summit-offer-two-text",
-                        children: "0x7825685e090cf064d3ee89952a1ec3115b22bfba ",
+                        children: "0xcomingsoon ",
                       }),
                     ],
                   }),
@@ -65098,7 +65098,7 @@ function Yj({ setSection: t }) {
               children: [
                 H.jsx("a", {
                   target: "_blank",
-                  href: "https://t.me/UNOMeme_Portal",
+                  href: "https://t.me/unomgroup",
                   className: "footer-socials-link",
                   children: H.jsx("img", {
                     src: "/img/telegram-icon.png",
@@ -65107,7 +65107,7 @@ function Yj({ setSection: t }) {
                 }),
                 H.jsx("a", {
                   target: "_blank",
-                  href: "https://x.com/UNOMonETH",
+                  href: "https://x.com/UNOMGROUP",
                   className: "footer-socials-link",
                   children: H.jsx("img", { src: "/img/x-icon.png", alt: "x" }),
                 }),
@@ -65118,7 +65118,7 @@ function Yj({ setSection: t }) {
               children: [
                 H.jsx("p", {
                   className: "footer-menu-copyright",
-                  children: "Copyright 2025 — $Unomeme",
+                  children: "Copyright 2026 — $Unom",
                 }),
                 H.jsxs("div", {
                   className: "footer-menu-row",
@@ -65633,7 +65633,7 @@ function hw({ setSection: t }) {
                         children: [
                           H.jsx("a", {
                             target: "_blank",
-                            href: "https://t.me/UNOMeme_Portal",
+                            href: "https://t.me/unomgroup",
                             className: "header-nav-socials-link",
                             children: H.jsx("img", {
                               src: "/img/telegram-icon.png",
@@ -65642,7 +65642,7 @@ function hw({ setSection: t }) {
                           }),
                           H.jsx("a", {
                             target: "_blank",
-                            href: "https://x.com/UNOMonETH",
+                            href: "https://x.com/UNOMGROUP",
                             className: "header-nav-socials-link",
                             children: H.jsx("img", {
                               src: "/img/x-icon.png",
@@ -65655,7 +65655,7 @@ function hw({ setSection: t }) {
                   }),
                   H.jsxs("button", {
                     className: "header-button header-button-buy",
-                    onClick: () => window.open("https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x7825685e090cf064d3ee89952a1ec3115b22bfba", "_blank"),
+                    onClick: () => window.open("https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon", "_blank"),
                     children: [
                       H.jsx(Jj, {
                         className: "header-button-buy-bg",
